@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #28A745;
+}
+
+.card-text {
+    font-size: 20px;
+    text-align: left;
+    color: #212529;
+}
+
+.row {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    font-size: 16px;
+    color: #707070;
+}
+
+.list-group-item .precio-oferta {
+    font-size: 20px;
+    color: #28A745;
+    font-weight: bold;
+    margin-left: 10px;
+}
